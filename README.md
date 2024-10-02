@@ -1,1 +1,1 @@
-# Sugarcane-Juicer-Project
+This project focuses on designing and developing an efficient sugarcane juicer machine aimed at maximizing juice extraction while minimizing waste. Featuring a four-roller system, helical gears, and a three-stage reduction design, this juicer enhances performance, reduces noise, and adapts to different sugarcane varieties. The innovative design aims to promote sustainable and cost-effective juice production.
